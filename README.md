@@ -19,12 +19,6 @@ A beautiful, animated quote generator that displays inspirational quotes from va
 
 ## Live Demo
 
-[Add your live demo link here]
-
-## Screenshots
-
-[Add screenshots of your application here]
-
 ## Installation
 
 1. Clone the repository:
