@@ -18,6 +18,7 @@ A beautiful, animated quote generator that displays inspirational quotes from va
 - JavaScript (Vanilla)
 
 ## Live Demo
+https://sunnyblue-code.github.io/quote_-generator/
 
 ## Installation
 
